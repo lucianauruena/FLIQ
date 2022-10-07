@@ -1,11 +1,13 @@
-/********** Template CSS **********/
+
 :root {
     --primary: darkred;
     --secondary: #354F8E;
     --light: #EFF5F9;
     --dark: #1D2A4D;
 }
-
+h1, h2, h3, h4, h5, h6, p, a{
+    font-family: 'Montserrat', sans-serif;
+}
 .btn {
     font-weight: 700;
     transition: .5s;
