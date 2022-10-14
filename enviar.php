@@ -1,7 +1,7 @@
 <?php
 $name = $_POST['name'];
 $mail = $_POST['mail'];
-$phone = $_POST['phone'];
+$asunto = $_POST['asunto'];
 $message = $_POST['message'];
 
 $header = 'From: ' .$mail . " \r\n";
